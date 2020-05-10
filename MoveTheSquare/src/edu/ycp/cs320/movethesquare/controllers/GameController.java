@@ -8,3 +8,5 @@ public class GameController {
 	public void computeSquareMoveDirection(Game game, Square square, double mouseX, double mouseY) {
 		if (mouseX >= 0 && mouseX < game.getWidth() && mouseY >= 0 && mouseY < game.getHeight()) {
 			double dx = mouseX - (square.getX() + square.getWidth()/2);
+			double dy = mouseY - (square.getY() + square.getHeight()/2);
+			
