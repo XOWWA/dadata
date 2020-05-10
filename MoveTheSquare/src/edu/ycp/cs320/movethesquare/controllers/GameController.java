@@ -12,3 +12,4 @@ public class GameController {
 			
 			double moveX = 0, moveY = 0;
 			if (dx > 0) {
+				moveX = Game.MOVE_DIST;
