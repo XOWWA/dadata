@@ -10,3 +10,5 @@ public class GameController {
 			double dx = mouseX - (square.getX() + square.getWidth()/2);
 			double dy = mouseY - (square.getY() + square.getHeight()/2);
 			
+			double moveX = 0, moveY = 0;
+			if (dx > 0) {
