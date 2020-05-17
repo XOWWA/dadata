@@ -22,3 +22,5 @@ public class GameController {
 				moveY = -Game.MOVE_DIST;
 			}
 			
+			game.setSquareDx(moveX);
+			game.setSquareDy(moveY);
