@@ -18,3 +18,4 @@ public class GameController {
 			}
 			if (dy > 0) {
 				moveY = Game.MOVE_DIST;
+			} else {
