@@ -25,3 +25,4 @@ public class GameController {
 			game.setSquareDx(moveX);
 			game.setSquareDy(moveY);
 		}
+	}
