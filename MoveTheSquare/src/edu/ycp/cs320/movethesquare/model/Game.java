@@ -1,1 +1,1 @@
-package edu.ycp.cs320.movethesquare.
+package edu.ycp.cs320.movethesquare.m
