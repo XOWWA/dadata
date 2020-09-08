@@ -1,4 +1,4 @@
 package edu.ycp.cs320.movethesquare.model;
 
 public class Game {
-	public static final doubl
+	public static final double M
