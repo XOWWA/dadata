@@ -5,4 +5,4 @@ public class Game {
 	private double width, height;
 	private Square square;
 	private double squareDx;
-	private doubl
+	private double sq
