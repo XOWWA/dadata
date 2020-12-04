@@ -6,3 +6,4 @@ public class Game {
 	private Square square;
 	private double squareDx;
 	private double squareDy;
+	
