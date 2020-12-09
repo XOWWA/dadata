@@ -7,4 +7,4 @@ public class Game {
 	private double squareDx;
 	private double squareDy;
 	
-	public 
+	public Ga
