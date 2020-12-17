@@ -8,3 +8,4 @@ public class Game {
 	private double squareDy;
 	
 	public Game() {
+	
