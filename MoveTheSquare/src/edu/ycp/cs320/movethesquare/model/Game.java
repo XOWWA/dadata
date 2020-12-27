@@ -11,4 +11,4 @@ public class Game {
 		
 	}
 	
-	public void se
+	public void set
