@@ -11,4 +11,4 @@ public class Game {
 		
 	}
 	
-	public void setSquare(Square s
+	public void setSquare(Square squ
