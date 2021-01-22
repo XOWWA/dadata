@@ -12,4 +12,4 @@ public class Game {
 	}
 	
 	public void setSquare(Square square) {
-		this.square = squa
+		this.square = squar
