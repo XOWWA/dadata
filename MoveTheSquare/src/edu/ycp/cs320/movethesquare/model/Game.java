@@ -13,4 +13,4 @@ public class Game {
 	
 	public void setSquare(Square square) {
 		this.square = square;
-	
+	}
