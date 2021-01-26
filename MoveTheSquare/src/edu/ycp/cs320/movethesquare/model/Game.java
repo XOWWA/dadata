@@ -15,3 +15,4 @@ public class Game {
 		this.square = square;
 	}
 	
+	pu
