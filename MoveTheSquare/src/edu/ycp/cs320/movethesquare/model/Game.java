@@ -15,4 +15,4 @@ public class Game {
 		this.square = square;
 	}
 	
-	pub
+	public
