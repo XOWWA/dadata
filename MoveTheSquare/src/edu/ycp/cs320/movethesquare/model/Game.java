@@ -15,4 +15,4 @@ public class Game {
 		this.square = square;
 	}
 	
-	public Square g
+	public Square getSq
