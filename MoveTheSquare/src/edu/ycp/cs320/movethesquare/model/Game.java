@@ -16,4 +16,4 @@ public class Game {
 	}
 	
 	public Square getSquare() {
-		
+		r
