@@ -16,4 +16,5 @@ public class Game {
 	}
 	
 	public Square getSquare() {
-		return square
+		return square;
+	
