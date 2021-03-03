@@ -19,4 +19,4 @@ public class Game {
 		return square;
 	}
 	
-	publ
+	publi
