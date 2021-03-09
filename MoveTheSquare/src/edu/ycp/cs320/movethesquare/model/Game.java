@@ -19,4 +19,4 @@ public class Game {
 		return square;
 	}
 	
-	public void set
+	public void setWi
