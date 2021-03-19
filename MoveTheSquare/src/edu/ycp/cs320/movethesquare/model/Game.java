@@ -19,4 +19,4 @@ public class Game {
 		return square;
 	}
 	
-	public void setWidth(double widt
+	public void setWidth(double width
