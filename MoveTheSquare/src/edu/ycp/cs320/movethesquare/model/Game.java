@@ -20,3 +20,4 @@ public class Game {
 	}
 	
 	public void setWidth(double width) {
+	
