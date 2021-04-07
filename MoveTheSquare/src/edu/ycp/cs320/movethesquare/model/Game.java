@@ -20,4 +20,4 @@ public class Game {
 	}
 	
 	public void setWidth(double width) {
-		this.width = wid
+		this.width = widt
