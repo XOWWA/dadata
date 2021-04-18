@@ -23,4 +23,4 @@ public class Game {
 		this.width = width;
 	}
 	
-	public double g
+	public double ge
