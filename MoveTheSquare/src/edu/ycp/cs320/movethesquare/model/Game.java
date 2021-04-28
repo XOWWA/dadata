@@ -24,4 +24,4 @@ public class Game {
 	}
 	
 	public double getWidth() {
-	
+		r
