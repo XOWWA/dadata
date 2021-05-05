@@ -26,3 +26,4 @@ public class Game {
 	public double getWidth() {
 		return width;
 	}
+	
