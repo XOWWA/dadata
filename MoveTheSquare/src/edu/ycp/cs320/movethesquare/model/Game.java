@@ -27,4 +27,4 @@ public class Game {
 		return width;
 	}
 	
-	public voi
+	public void 
