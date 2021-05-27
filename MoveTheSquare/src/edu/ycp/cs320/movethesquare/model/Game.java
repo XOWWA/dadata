@@ -27,4 +27,5 @@ public class Game {
 		return width;
 	}
 	
-	public void setHeight(double height) 
+	public void setHeight(double height) {
+	
