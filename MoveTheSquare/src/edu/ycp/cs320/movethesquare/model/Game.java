@@ -28,4 +28,4 @@ public class Game {
 	}
 	
 	public void setHeight(double height) {
-		this.height = h
+		this.height = he
