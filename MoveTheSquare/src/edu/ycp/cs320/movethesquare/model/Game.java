@@ -31,4 +31,4 @@ public class Game {
 		this.height = height;
 	}
 	
-	public doubl
+	public double
