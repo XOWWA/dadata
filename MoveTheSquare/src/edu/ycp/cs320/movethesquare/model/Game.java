@@ -32,4 +32,4 @@ public class Game {
 	}
 	
 	public double getHeight() {
-		return h
+		return hei
