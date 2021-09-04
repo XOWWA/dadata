@@ -35,4 +35,4 @@ public class Game {
 		return height;
 	}
 	
-	public void setSquareDx(doubl
+	public void setSquareDx(double 
