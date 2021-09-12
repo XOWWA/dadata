@@ -36,3 +36,4 @@ public class Game {
 	}
 	
 	public void setSquareDx(double squareDx) {
+		t
