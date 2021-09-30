@@ -36,4 +36,4 @@ public class Game {
 	}
 	
 	public void setSquareDx(double squareDx) {
-		this.squareDx = squ
+		this.squareDx = square
