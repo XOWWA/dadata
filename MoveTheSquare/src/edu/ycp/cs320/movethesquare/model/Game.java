@@ -38,3 +38,4 @@ public class Game {
 	public void setSquareDx(double squareDx) {
 		this.squareDx = squareDx;
 	}
+	
