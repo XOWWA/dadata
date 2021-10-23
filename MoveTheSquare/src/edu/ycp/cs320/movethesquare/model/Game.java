@@ -39,4 +39,4 @@ public class Game {
 		this.squareDx = squareDx;
 	}
 	
-	public d
+	public do
