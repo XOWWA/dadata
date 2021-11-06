@@ -39,4 +39,4 @@ public class Game {
 		this.squareDx = squareDx;
 	}
 	
-	public double getSquareD
+	public double getSquareDx(
