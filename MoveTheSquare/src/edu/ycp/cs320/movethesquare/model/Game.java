@@ -40,4 +40,4 @@ public class Game {
 	}
 	
 	public double getSquareDx() {
-	
+		r
