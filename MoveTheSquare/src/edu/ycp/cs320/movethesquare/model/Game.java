@@ -42,3 +42,5 @@ public class Game {
 	public double getSquareDx() {
 		return squareDx;
 	}
+	
+	
