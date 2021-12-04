@@ -43,4 +43,4 @@ public class Game {
 		return squareDx;
 	}
 	
-	publi
+	public vo
