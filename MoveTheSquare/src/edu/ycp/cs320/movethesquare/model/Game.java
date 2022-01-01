@@ -44,3 +44,4 @@ public class Game {
 	}
 	
 	public void setSquareDy(double squareDy) {
+		
