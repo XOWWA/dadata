@@ -43,4 +43,4 @@ public class Game {
 		return squareDx;
 	}
 	
-	public void setSquareDy(double squareDy)
+	public void setSquareDy(double squareDy) {
