@@ -44,4 +44,4 @@ public class Game {
 	}
 	
 	public void setSquareDy(double squareDy) {
-		this.squar
+		this.squareD
