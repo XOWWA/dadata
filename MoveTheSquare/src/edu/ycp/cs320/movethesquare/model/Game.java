@@ -46,3 +46,5 @@ public class Game {
 	public void setSquareDy(double squareDy) {
 		this.squareDy = squareDy;
 	}
+	
+	
