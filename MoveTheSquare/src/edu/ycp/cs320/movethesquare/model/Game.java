@@ -47,4 +47,4 @@ public class Game {
 		this.squareDy = squareDy;
 	}
 	
-	public double getSquareDy()
+	public double getSquareDy() 
