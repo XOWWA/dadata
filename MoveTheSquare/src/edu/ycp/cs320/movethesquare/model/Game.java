@@ -48,4 +48,4 @@ public class Game {
 	}
 	
 	public double getSquareDy() {
-		return squ
+		return squa
