@@ -49,3 +49,4 @@ public class Game {
 	
 	public double getSquareDy() {
 		return squareDy;
+	}
