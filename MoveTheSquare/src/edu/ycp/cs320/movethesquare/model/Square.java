@@ -1,1 +1,1 @@
-package e
+package edu
