@@ -1,1 +1,1 @@
-package edu.yc
+package edu.ycp
