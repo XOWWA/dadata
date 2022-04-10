@@ -1,1 +1,1 @@
-package edu.ycp.cs320.mov
+package edu.ycp.cs320.move
