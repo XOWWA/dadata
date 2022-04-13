@@ -1,1 +1,1 @@
-package edu.ycp.cs320.movethes
+package edu.ycp.cs320.movethesqu
