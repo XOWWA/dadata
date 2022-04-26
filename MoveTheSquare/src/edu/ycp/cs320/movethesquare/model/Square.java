@@ -1,3 +1,3 @@
 package edu.ycp.cs320.movethesquare.model;
 
-public class
+public class S
