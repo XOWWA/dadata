@@ -1,4 +1,4 @@
 package edu.ycp.cs320.movethesquare.model;
 
 public class Square {
-	private double x, y, w
+	private double x, y, wid
