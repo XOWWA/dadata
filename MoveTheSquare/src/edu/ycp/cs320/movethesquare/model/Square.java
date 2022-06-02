@@ -4,3 +4,4 @@ public class Square {
 	private double x, y, width, height;
 	
 	public Square() {
+		
