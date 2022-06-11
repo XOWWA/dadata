@@ -7,4 +7,4 @@ public class Square {
 		
 	}
 	
-	publi
+	public
