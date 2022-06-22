@@ -7,4 +7,4 @@ public class Square {
 		
 	}
 	
-	public void setX(do
+	public void setX(doubl
