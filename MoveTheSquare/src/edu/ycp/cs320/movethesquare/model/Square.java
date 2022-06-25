@@ -8,4 +8,4 @@ public class Square {
 	}
 	
 	public void setX(double x) {
-		this.x =
+		this.x = 
