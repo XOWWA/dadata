@@ -11,4 +11,4 @@ public class Square {
 		this.x = x;
 	}
 	
-	public double get
+	public double getX
