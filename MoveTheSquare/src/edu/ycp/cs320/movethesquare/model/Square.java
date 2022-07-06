@@ -12,4 +12,4 @@ public class Square {
 	}
 	
 	public double getX() {
-		ret
+		retur
