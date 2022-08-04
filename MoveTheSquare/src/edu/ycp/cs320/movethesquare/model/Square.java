@@ -15,4 +15,4 @@ public class Square {
 		return x;
 	}
 	
-	public void setY(double y
+	public void setY(double y) 
