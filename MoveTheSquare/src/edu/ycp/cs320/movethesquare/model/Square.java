@@ -17,3 +17,4 @@ public class Square {
 	
 	public void setY(double y) {
 		this.y = y;
+	}
