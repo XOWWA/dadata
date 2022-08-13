@@ -19,4 +19,4 @@ public class Square {
 		this.y = y;
 	}
 	
-	public double g
+	public double get
