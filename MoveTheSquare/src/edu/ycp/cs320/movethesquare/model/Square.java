@@ -20,4 +20,4 @@ public class Square {
 	}
 	
 	public double getY() {
-		return
+		return y;
