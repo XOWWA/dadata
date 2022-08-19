@@ -21,3 +21,4 @@ public class Square {
 	
 	public double getY() {
 		return y;
+	
