@@ -23,4 +23,4 @@ public class Square {
 		return y;
 	}
 	
-	public vo
+	public void
