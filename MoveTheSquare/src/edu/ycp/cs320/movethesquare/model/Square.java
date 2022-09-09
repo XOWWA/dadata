@@ -23,4 +23,4 @@ public class Square {
 		return y;
 	}
 	
-	public void setWid
+	public void setWidth(
