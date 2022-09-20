@@ -24,4 +24,4 @@ public class Square {
 	}
 	
 	public void setWidth(double width) {
-		this.widt
+		this.width
