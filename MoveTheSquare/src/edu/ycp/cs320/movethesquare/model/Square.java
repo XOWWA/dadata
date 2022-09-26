@@ -27,4 +27,4 @@ public class Square {
 		this.width = width;
 	}
 	
-	public dou
+	public double
