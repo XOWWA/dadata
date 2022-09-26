@@ -26,3 +26,4 @@ public class Square {
 	public void setWidth(double width) {
 		this.width = width;
 	}
+	
