@@ -28,4 +28,4 @@ public class Square {
 	}
 	
 	public double getWidth() {
-		return width
+		return width;
