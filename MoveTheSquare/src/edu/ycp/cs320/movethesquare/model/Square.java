@@ -31,4 +31,4 @@ public class Square {
 		return width;
 	}
 	
-	public voi
+	public void 
