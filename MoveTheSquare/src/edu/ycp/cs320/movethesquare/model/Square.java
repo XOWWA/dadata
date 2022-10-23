@@ -31,4 +31,4 @@ public class Square {
 		return width;
 	}
 	
-	public void setHeight(double
+	public void setHeight(double he
