@@ -32,4 +32,4 @@ public class Square {
 	}
 	
 	public void setHeight(double height) {
-		this.hei
+		this.height
