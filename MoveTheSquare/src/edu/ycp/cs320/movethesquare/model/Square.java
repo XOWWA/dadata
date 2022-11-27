@@ -35,4 +35,4 @@ public class Square {
 		this.height = height;
 	}
 	
-	public double getHe
+	public double getHei
