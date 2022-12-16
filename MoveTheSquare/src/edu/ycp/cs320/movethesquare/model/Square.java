@@ -38,3 +38,4 @@ public class Square {
 	public double getHeight() {
 		return height;
 	}
+}
