@@ -12,3 +12,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
+
+import edu.ycp.cs320.movethesquare.controllers.GameController;
+import edu.ycp.cs320.movethesquare.model.Game;
