@@ -16,3 +16,6 @@ import javax.swing.Timer;
 import edu.ycp.cs320.movethesquare.controllers.GameController;
 import edu.ycp.cs320.movethesquare.model.Game;
 import edu.ycp.cs320.movethesquare.model.Square;
+
+public class GameView extends JPanel {
+	private static final Color MIDNIGHT_BLUE = new Color(16, 16, 128);
