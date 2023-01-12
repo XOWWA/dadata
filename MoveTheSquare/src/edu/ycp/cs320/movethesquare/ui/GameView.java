@@ -26,3 +26,5 @@ public class GameView extends JPanel {
 	
 	public GameView(Game model) {
 		this.model = model;
+		setPreferredSize(new Dimension((int) model.getWidth(), (int)model.getHeight()));
+		setBackground(MIDNIGHT_BLUE);
