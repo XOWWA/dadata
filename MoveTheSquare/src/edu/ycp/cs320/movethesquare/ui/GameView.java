@@ -31,3 +31,4 @@ public class GameView extends JPanel {
 		
 		this.timer = new Timer(1000 / 60, new ActionListener() {
 			@Override
+			public void actionPerformed(ActionEvent e) {
