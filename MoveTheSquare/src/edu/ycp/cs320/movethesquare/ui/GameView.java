@@ -24,3 +24,5 @@ public class GameView extends JPanel {
 	private GameController controller;
 	private Timer timer;
 	
+	public GameView(Game model) {
+		this.model = model;
