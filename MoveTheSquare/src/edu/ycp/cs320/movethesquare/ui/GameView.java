@@ -38,3 +38,5 @@ public class GameView extends JPanel {
 	}
 	
 	public void setController(GameController controller) {
+		this.controller = controller;
+	}
