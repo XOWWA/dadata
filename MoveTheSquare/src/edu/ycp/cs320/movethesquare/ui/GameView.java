@@ -43,3 +43,4 @@ public class GameView extends JPanel {
 	
 	public void startAnimation() {
 		timer.start();
+	}
