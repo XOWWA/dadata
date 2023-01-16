@@ -49,3 +49,6 @@ public class GameView extends JPanel {
 		if (controller == null) {
 			return;
 		}
+		Square square = model.getSquare();
+		Point mouseLoc = getMousePosition();
+		if (mouseLoc != null) {
