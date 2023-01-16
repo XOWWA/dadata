@@ -55,3 +55,4 @@ public class GameView extends JPanel {
 			controller.computeSquareMoveDirection(model, square, mouseLoc.getX(), mouseLoc.getY());
 		}
 		controller.moveSquare(model, square);
+		repaint();
