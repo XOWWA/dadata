@@ -44,3 +44,6 @@ public class GameView extends JPanel {
 	public void startAnimation() {
 		timer.start();
 	}
+
+	protected void handleTimerTick() {
+		if (controller == null) {
