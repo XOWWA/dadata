@@ -56,3 +56,5 @@ public class GameView extends JPanel {
 		}
 		controller.moveSquare(model, square);
 		repaint();
+	}
+	
