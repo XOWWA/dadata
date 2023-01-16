@@ -48,3 +48,4 @@ public class GameView extends JPanel {
 	protected void handleTimerTick() {
 		if (controller == null) {
 			return;
+		}
