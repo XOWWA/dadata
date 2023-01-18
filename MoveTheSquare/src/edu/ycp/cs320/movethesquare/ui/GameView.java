@@ -59,3 +59,4 @@ public class GameView extends JPanel {
 	}
 	
 	@Override
+	protected void paintComponent(Graphics g) {
