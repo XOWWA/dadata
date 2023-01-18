@@ -62,3 +62,4 @@ public class GameView extends JPanel {
 	protected void paintComponent(Graphics g) {
 		super.paintComponent(g); // paint background
 		
+		g.setColor(Color.YELLOW);
