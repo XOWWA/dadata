@@ -78,3 +78,6 @@ public class GameView extends JPanel {
 				model.setHeight(1080.0);
 				
 				Square square = new Square();
+				square.setX(540.0);
+				square.setY(440.0);
+				square.setWidth(40.0);
