@@ -75,3 +75,4 @@ public class GameView extends JPanel {
 			public void run() {
 				Game model = new Game();
 				model.setWidth(1280.0);
+				model.setHeight(1080.0);
