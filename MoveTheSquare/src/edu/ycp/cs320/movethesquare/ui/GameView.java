@@ -86,3 +86,5 @@ public class GameView extends JPanel {
 				
 				GameController controller = new GameController();
 				
+				GameView view = new GameView(model);
+				view.setController(controller);
