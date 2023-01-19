@@ -63,3 +63,5 @@ public class GameView extends JPanel {
 		super.paintComponent(g); // paint background
 		
 		g.setColor(Color.YELLOW);
+
+		Square square = model.getSquare();
