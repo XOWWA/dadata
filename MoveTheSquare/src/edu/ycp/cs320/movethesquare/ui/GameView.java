@@ -69,3 +69,4 @@ public class GameView extends JPanel {
 		g.fillRect((int) square.getX(), (int) square.getY(), (int) square.getWidth(), (int) square.getHeight());
 	}
 	
+	public static void main(String[] args) {
