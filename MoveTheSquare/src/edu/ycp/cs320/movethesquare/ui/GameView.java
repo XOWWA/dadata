@@ -74,3 +74,4 @@ public class GameView extends JPanel {
 			@Override
 			public void run() {
 				Game model = new Game();
+				model.setWidth(1280.0);
