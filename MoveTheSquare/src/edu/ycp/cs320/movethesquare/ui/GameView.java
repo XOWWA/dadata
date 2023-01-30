@@ -89,3 +89,4 @@ public class GameView extends JPanel {
 				GameView view = new GameView(model);
 				view.setController(controller);
 				
+				JFrame frame = new JFrame("Move the Square!!!!");
