@@ -90,3 +90,4 @@ public class GameView extends JPanel {
 				view.setController(controller);
 				
 				JFrame frame = new JFrame("Move the Square!!!!");
+				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
