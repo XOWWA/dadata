@@ -88,3 +88,4 @@ public class GameView extends JPanel {
 				
 				GameView view = new GameView(model);
 				view.setController(controller);
+				
