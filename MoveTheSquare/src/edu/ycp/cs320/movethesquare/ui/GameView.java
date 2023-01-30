@@ -94,3 +94,4 @@ public class GameView extends JPanel {
 				frame.add(view);
 				frame.pack();
 				frame.setVisible(true);
+				
