@@ -95,3 +95,5 @@ public class GameView extends JPanel {
 				frame.pack();
 				frame.setVisible(true);
 				
+				view.startAnimation();
+			}
