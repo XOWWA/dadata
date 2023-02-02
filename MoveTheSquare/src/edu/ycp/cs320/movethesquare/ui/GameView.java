@@ -97,3 +97,5 @@ public class GameView extends JPanel {
 				
 				view.startAnimation();
 			}
+		});
+	}
