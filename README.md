@@ -1,4 +1,4 @@
 MoveTheSquare
 =============
 
-The gam
+The game
