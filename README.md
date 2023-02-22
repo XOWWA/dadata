@@ -1,4 +1,4 @@
 MoveTheSquare
 =============
 
-The game engine for the next great i
+The game engine for the next great ind
